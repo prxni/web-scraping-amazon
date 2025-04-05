@@ -84,4 +84,3 @@ amazon-web-scraper/
    git push
    ```
 
-This gives users clear instructions while making your repo look professional. Want any section expanded? 🚀
