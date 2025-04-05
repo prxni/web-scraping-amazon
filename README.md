@@ -71,10 +71,6 @@ amazon-web-scraper/
 - **No Data Scraped?**  
   - Check if Amazon’s HTML structure changed (update selectors).  
 
----
-
-## **📜 License**  
-MIT © Your Name  
 
 ---
 
